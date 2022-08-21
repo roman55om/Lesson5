@@ -236,13 +236,7 @@ void FindStraightsCrossingDot (double k1, double k2, double b1, double b2)
         Console.WriteLine($"{x}, {y}");
     }
 }
-    //___________Main code____________________
+
+//___________Main code____________________
 //________________________________________
 //________________________________________
-//Task39();
-//Task40();
-//Task42();
-//Task44();
-//Task45();
-//Task41();
-//Task43();
