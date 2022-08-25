@@ -253,18 +253,7 @@ void Task58()
     int columns = 4;
     int[,] array = new int[rows,columns];
     int i = 0;
-    int j = 0;
-    
-    for (i = 0; i < rows; i++)
-    {
-        for (j = 0; j < columns; j++)
-        {
-            array[i, j] = 0;
-        }
-    }
-    
-    i = 0;
-    j = 0;
+    int j = 0;   
     int filler = 1;
     
     for (; j < columns; j++)
