@@ -195,7 +195,7 @@ void ChooseElementInMatrix(int[,] array)
     }
 }
 
-// void SetMatrix (int rows, int columns, int[,] array)
+// int SetMatrix (int rows, int columns, int[,] array)
 // {
 //     Console.WriteLine("Enter the number of rows");
 //     int rows = Convert.ToInt32(Console.ReadLine());
